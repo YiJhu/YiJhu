@@ -14,7 +14,7 @@
 <h2 align="left">Something about me</h2>
 <ul>
     <p align="left">Gender: Male</p>
-    <p align="left">Born: 2001 A.D</p>
+    <p align="left">Born: 2001 A.D.</p>
     <p align="left">Major: Department of International Business</p>
 </ul>
 

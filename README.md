@@ -31,6 +31,7 @@
 </ul>
 
 <h2 align="left">Statistical data</h2>
+<ul>
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yijhu&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="yijhu" />
     </p>
@@ -40,4 +41,20 @@
     <p>
         <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=YiJhu&theme=dark&hide_border=true alt="yijhu" />
     </p>
+</ul>
 
+<h2 align="left">License</h2>
+<ul>
+    <table>
+        <tr>
+            <th>License Name</th>
+            <th>Issue Date</th>
+            <th>Issue Organization</th>
+        </tr>
+        <tr>
+            <td>International Supervisory Management</td>
+            <td>Jan. 2021</td>
+            <td>City & Guilds</td>
+        </tr>
+    </table>
+</ul>

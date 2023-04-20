@@ -20,7 +20,7 @@ Hello! Welcome to my page!
 <h2>Statistics</h2>
 <ul>
     <li>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&show_icons=true&theme=gruvbox&layout=compact&locale=en-uk" alt="YiJhu" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&show_icons=true&theme=gruvbox&layout=compact&locale=en" alt="YiJhu" />
     </li>
     <li>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&theme=gruvbox&locale=en" alt="YiJhu" />

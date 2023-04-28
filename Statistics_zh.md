@@ -1,6 +1,6 @@
-Hello! Welcome to my page!
+嗨! 歡迎造訪~
 
-<h2>Statistics</h2>
+<h2>統計數據</h2>
 <ul>
     <li>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&show_icons=true&theme=gruvbox&layout=compact&locale=zh-tw" alt="YiJhu" />

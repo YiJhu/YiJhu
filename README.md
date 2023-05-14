@@ -25,7 +25,4 @@ Hello! Welcome to my page!
     <li>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&theme=gruvbox&locale=en" alt="YiJhu" />
     </li>
-    <li>
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=YiJhu&theme=dark&hide_border=true&count_private=true&locale=en" alt="YiJhu" />
-    </li>
 </ul>

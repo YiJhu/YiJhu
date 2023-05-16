@@ -4,7 +4,7 @@ Hello! Welcome to my page!
 <p>My name is Michael and I am a university student majoring in International Business. I love programming and currently focus on using Python.</p>
 <h2>Connect with Me</h2>
 <ul>
-    <li><a href="https://twitter.com/michael123303" target="_blank">Twitter</a></li>
+    <li><a href="https://twitter.com/Archibald_TW" target="_blank">Twitter</a></li>
     <li><a href="https://linkedin.com/in/yi-jhu0310" target="_blank">LinkedIn</a></li>
     <li><a href="https://instagram.com/michael_wu_0310" target="_blank">Instagram</a></li>
 </ul>

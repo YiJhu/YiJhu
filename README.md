@@ -1,7 +1,7 @@
 Hello! Welcome to my page!
 
 <h2>About Me</h2>
-<p>My name is Michael and I am a university student majoring in International Business. I love programming and anime.</p>
+<p>My name is Michael and I love programming and anime.</p>
 <h2>Connect with Me</h2>
 <ul>
     <li><a href="https://twitter.com/Archibald_TW" target="_blank">Twitter</a></li>
@@ -13,6 +13,7 @@ Hello! Welcome to my page!
 <ul>
     <li>Python</li>
     <li>Java</li>
+    <li>R-lang</li>
 </ul>
 <h2>Currently Learning</h2>
 <ul>

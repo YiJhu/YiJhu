@@ -1,5 +1,3 @@
-Hello! Welcome to my page!
-
 <h2>About Me</h2>
 <p>My name is Michael and I love programming and anime.</p>
 <h2>Connect with Me</h2>

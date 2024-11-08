@@ -1,4 +1,3 @@
-<h2>About Me</h2>
 <p>My name is Archibald and I love programming and anime.</p>
 
 <h2>Programming Languages</h2>

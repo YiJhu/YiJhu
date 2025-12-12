@@ -11,11 +11,11 @@
     <li>Go</li>
 </ul>
 <h2>Statistics</h2>
-<ul>
+<picture>
     <li>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&show_icons=true&theme=gruvbox&layout=compact&local&private=en" alt="YiJhu" />
     </li>
     <li>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&theme=gruvbox&locale=en" alt="YiJhu" />
     </li>
-</ul>
+</picture>

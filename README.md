@@ -38,13 +38,9 @@ meant to survive refactors — not just demos.
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&layout=compact&theme=gruvbox" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&layout=compact&theme=gruvbox&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&theme=gruvbox" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&theme=gruvbox&hide_border=true)
 
 ---
 

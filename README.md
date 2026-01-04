@@ -1,21 +1,53 @@
-<p>My name is Archibald and I love programming and anime.</p>
+## 👋 Hi, I'm Archibald  
+**I build backend tools, APIs, and bots — clean code first, anime second.**
 
-<h2>Programming Languages</h2>
-<ul>
-    <li>Python</li>
-    <li>Java</li>
-    <li>R-lang</li>
-</ul>
-<h2>Currently Learning</h2>
-<ul>
-    <li>Go</li>
-</ul>
-<h2>Statistics</h2>
-<picture>
-    <li>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&show_icons=true&theme=gruvbox&layout=compact&local&private=en" alt="YiJhu" />
-    </li>
-    <li>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&theme=gruvbox&locale=en" alt="YiJhu" />
-    </li>
-</picture>
+I focus on designing reliable backend software with an emphasis on
+maintainability, performance, and long-term usability.
+
+I care about code quality, architecture, and writing software that is
+meant to survive refactors — not just demos.
+
+---
+
+## 🛠️ Technical Stack
+
+- **Python** — Backend tools, APIs, automation scripts, bot development
+- **Java** — Object-oriented design, structured backend logic
+- **R** — Data analysis and statistical computing
+- **Go (learning & practicing)** — High-performance backend & concurrency
+
+---
+
+## 🧰 Tools & IDEs
+
+- **IDEs / Editors**: Visual Studio Code, IntelliJ IDEA
+- **Version Control**: Git / GitHub
+- **Backend & Development Tools**: Docker, Postman
+- **Operating Systems**: Linux, Windows
+
+---
+
+## 🎯 Current Focus
+
+- Building **clean and maintainable backend tools**
+- Designing **Python libraries and APIs** with clear boundaries
+- Practicing **Go** through real-world projects
+- Improving **architecture, performance, and code structure**
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&layout=compact&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&theme=gruvbox" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: [@YiJhu](https://github.com/YiJhu)

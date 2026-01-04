@@ -35,15 +35,3 @@ meant to survive refactors — not just demos.
 - Improving **architecture, performance, and code structure**
 
 ---
-
-## 📊 GitHub Overview
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YiJhu&layout=compact&cache_seconds=86400)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YiJhu&show_icons=true&cache_seconds=86400)
-
----
-
-## 📫 Contact
-
-- GitHub: [@YiJhu](https://github.com/YiJhu)

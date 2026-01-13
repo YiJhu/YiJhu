@@ -35,3 +35,5 @@ meant to survive refactors — not just demos.
 - Improving **architecture, performance, and code structure**
 
 ---
+
+<a href="https://gitroll.io/profile/uvm2n2Mj9Djdkcngi3SlhfdEs3p52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uvm2n2Mj9Djdkcngi3SlhfdEs3p52?theme=solarizedLight" alt="GitRoll Profile Badge"/></a>
